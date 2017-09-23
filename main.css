@@ -2,6 +2,8 @@ body {
     background-color: #d3d3d3;
     margin-left: 300px;
     margin-right: 300px;
+    font-family: "Courier New", Courier, monospace;
+    border-color: border-color: #000000;
 }
 
 h3 {
@@ -22,7 +24,13 @@ h5 {
 
 img {
 	border-radius: 50px;
+}
+
+.space {
 	margin-right: 40px;
 	margin-bottom: 50px;
 }
 
+.firstletter {
+ font-size: 200%;
+}
